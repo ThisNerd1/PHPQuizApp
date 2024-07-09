@@ -1,1 +1,1 @@
-# QuizApp
+# A PHP quiz website that allows users to play quizzes!
