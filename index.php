@@ -1,5 +1,5 @@
 <?php
-require_once("../QuizApp/Frontend/navbar.php");
+require_once("Frontend/navbar.php");
 
 ?>
 
@@ -17,5 +17,5 @@ require_once("../QuizApp/Frontend/navbar.php");
 
 
 <?php
-require_once("../QuizApp/Frontend/footer.php");
+require_once("Frontend/footer.php");
 ?>
